@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\close_screen.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\close_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_out.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in_no_anim.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out_no_anim.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle_mine.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out_no_anim.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out_no_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\close_screen.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\close_screen.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_image_browse.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\show_image_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out_no_anim.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\up_down.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\up_down.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_show.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left_mine.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in_no_anim.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_in.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_in.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_image_browse.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\hide_image_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out_no_anim.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\close_screen.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\close_screen.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_show.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in_no_anim.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_screen.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\open_screen.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_image_browse.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\show_image_browse.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out_no_anim.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_show.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle_mine.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle_mine.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\up_down.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\up_down.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right_mine.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right_mine.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_show.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\up_down.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\up_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_hide.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_hide.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in_no_anim.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\down_up.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\down_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_hide.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_hide.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right_mine.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_screen.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\open_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_screen.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\open_screen.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\close_screen.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\close_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle_mine.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle_mine.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_out.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left_mine.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left_mine.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\down_up.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\down_up.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_hide.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle_mine.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\delete_btn_hide.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\delete_btn_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\down_up.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\down_up.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out_no_anim.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out_no_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_image_browse.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\show_image_browse.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_out.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\down_up.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\down_up.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in_no_anim.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in_no_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out_no_anim.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_right_mine.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_right_mine.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_in.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left_mine.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left_mine.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle_mine.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle_mine.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in_no_anim.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_out_no_anim.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_out_no_anim.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\open_screen.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\open_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle_mine.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_to_middle_mine.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_to_middle_mine.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_image_browse.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\hide_image_browse.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_image_browse.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\hide_image_browse.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_image_browse.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\hide_image_browse.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_to_middle.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_to_middle.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_in_no_anim.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_in_no_anim.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\up_down.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\up_down.xml"
+    },
+    {
+        "merged": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_out.xml",
+        "source": "E:\\internet\\newCode\\PullToRefreshStudy\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_left_out.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\pop_window_in.xml",
+        "source": "E:\\internet\\code\\PullToRefreshDeom\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\pop_window_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\midle_to_left_mine.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\midle_to_left_mine.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_right_in_no_anim.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_right_in_no_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_image_browse.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\ChenYipengXutil3Work\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\show_image_browse.xml"
+    },
+    {
+        "merged": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\as\\android\\WaiguoStudentApp\\pullToRefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    }
+]
